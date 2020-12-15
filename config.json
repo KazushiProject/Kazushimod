@@ -1,0 +1,52 @@
+{
+    "--------------------------------------------------" : "Identité",
+
+    "nom": "Kazushi test",
+    "licenceImage": "[Auteur et licence](lien)",
+    "hebergement": "[hebergement](lien)",
+
+    "prefixconfig": "/",
+    "token": "Nzg4MzgzMjc2NTAyNDgyOTQ1.X9itJA.EL2ajj1-u5HWeJKmGZGgnVX5F2A",
+
+    "-------------------------------------------------" : "Serveur",
+
+    "guild": "⭐ HYDARIA / PVP FACTIONS / ⭐",
+    "guildImage": "lien",
+
+    "invitation": "https://discord.gg/RJ98834e",
+    "modchannelid": "787986246592757760",
+    "modchannelbisid": "776166534090326037",
+    "genchannelid": "787986246592757760",
+
+    "------------------------------------------------" : "Services",
+
+    "ynInvitation": 1,
+    "ynRaid": 1,
+    "ynPseudo": 1,
+    "ynStatut": 1,  
+    "ynAide": 1,
+    "ynInfo": 1,
+    "ynPing": 1,
+    "ynClear": 1,
+    "ynStop": 1,
+    "ynConfig": 1,
+    "ynLock": 1,
+    "ynVerif": 1,
+
+    "-----------------------" : "Raid",
+
+    "raidon": 2,
+    "raiddelais": -100,
+    "raiddelaisH": "une minute",
+
+    "------------------------" : "Pseudo",
+
+    "pseudointerdit": ["mot", "interdit"],
+
+    "-------------------------" : "Vérification",
+
+    "idWikiAuthBot" : "id",
+    "verifRole": "id",
+    "channelAuth" : "id"
+
+}

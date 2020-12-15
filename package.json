@@ -1,0 +1,17 @@
+{
+  "name": "Kazushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install 1": "npm i discord.js",
+    "install 2": "npm i fs"
+  },
+  "author": "Vorlod",
+  "license": "MIT",
+  "dependencies": {
+    "command.js": "0.0.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
